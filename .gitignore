@@ -5,3 +5,11 @@ Thumbs.db
 .vscode/
 dist/
 *.log
+.git/
+.gitignore
+package.json
+package-lock.json
+AGENTS.md
+CLAUDE.md
+README.md
+ROADMAP.md
