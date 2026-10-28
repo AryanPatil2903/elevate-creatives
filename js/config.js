@@ -66,19 +66,19 @@ window.SITE = {
     featuredLabel: "Most picked",
     items: [
       {
-        tag: "For new teams and streamers", name: "Rookie", price: "₹0,000", period: "/ month · 3-month contract", featured: false, // REPLACE price
+        tag: "For new teams and streamers", name: "Rookie", price: "₹4,999", period: "/ month · 3-month contract", featured: false, // REPLACE price
         text: "A clean, professional look to get you started.",
         features: ["Logo refresh or mini brand kit", "1 stream overlay set", "4 social graphics per month", "2 revision rounds", "Email support"],
         cta: "Choose Rookie",
       },
       {
-        tag: "For active rosters", name: "Pro League", price: "₹0,000", period: "/ month · 6-month contract", featured: true, // REPLACE price
+        tag: "For active rosters", name: "Pro League", price: "₹7,999", period: "/ month · 6-month contract", featured: true, // REPLACE price
         text: "A complete visual system for a full competitive season.",
         features: ["Full team identity and brand book", "Complete stream package", "12 social graphics per month", "2 highlight edits per month", "3 revision rounds", "Priority turnaround"],
         cta: "Choose Pro League",
       },
       {
-        tag: "For orgs and events", name: "Championship", price: "₹0,000", period: "/ month · 12-month contract", featured: false, // REPLACE price
+        tag: "For orgs and events", name: "Championship", price: "₹12,999", period: "/ month · 12-month contract", featured: false, // REPLACE price
         text: "Your own media department, on retainer.",
         features: ["Full brand system and guidelines", "Tournament and broadcast graphics", "Unlimited social graphics (fair use)", "6 video edits per month", "Dedicated art lead", "Same-week turnaround"],
         cta: "Choose Championship",
@@ -149,7 +149,7 @@ window.SITE = {
         { label: "LinkedIn",  href: "https://linkedin.com/company/yourpage" }, // REPLACE
       ] },
     ],
-    location: "Navi Mumbai, India", // REPLACE or ""
-    tagline: "Made by gamers and artists",
+    location: "Navi Mumbai, Raigad, India", // REPLACE or ""
+    tagline: "Made for gamers and content creators",
   },
 };
