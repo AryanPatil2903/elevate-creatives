@@ -287,3 +287,21 @@ html.cursor-on input, html.cursor-on textarea { cursor: text !important; }
 @media (prefers-reduced-motion: reduce) {
   .ticker-track, .hero h1 .grad .wi, .scroll-hint span { animation: none; }
 }
+.brand-logo {
+  display: block;
+  width: 150px;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+}
+
+@media (max-width: 600px) {
+  .brand-logo {
+    width: 120px;
+  }
+}
