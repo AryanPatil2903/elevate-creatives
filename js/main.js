@@ -107,7 +107,7 @@
     node.textContent = "";
 
     var img = el("img", {
-      src: "./assets/ElevatelabsLogo.JPG",
+      src: "./assets/ElevatelabsLogo.png",
       alt: "ElevateLabs Creatives",
       class: "site-logo-img"
     });
