@@ -326,3 +326,10 @@ html.cursor-on input, html.cursor-on textarea { cursor: text !important; }
     width: 120px;
   }
 }
+[data-theme="dark"] .site-logo-img {
+  filter: none;
+}
+
+[data-theme="light"] .site-logo-img {
+  filter: brightness(0);
+}
